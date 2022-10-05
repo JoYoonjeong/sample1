@@ -95,6 +95,7 @@
 	<a href="${pageContext.request.contextPath}/download1">다운로드</a>
 	<!-- 외부에 있는 파일을 불러오고 싶을 때 - ServletAppContext 경로를 수정해줘야 함. -->
 	<img src="upload/muffin.png" />
+	<h1>깃허브에 반영할 업데이트 소스</h1>
 	
 </body>
 </html>
